@@ -1,0 +1,17 @@
+body {
+    text-align: center;
+    font-family: 'Roboto Mono', monospace;
+    font-size: larger;
+    color: white;
+    background-color: black
+    ;
+}
+button {
+    background-color: white;
+    border: none;
+    color: black;
+    text-align: center;
+    font-family: 'Roboto Mono', monospace;
+    font-size: larger;
+    margin-bottom: 10px;
+}
