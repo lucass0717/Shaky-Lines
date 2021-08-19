@@ -87,6 +87,7 @@ function startTimer(){
                 .attr("y2", y2)
                 .attr("stroke", "white")
                 .attr("stroke-width", 5)
+                .attr("stroke-linecap", "round")
         }
         randData = [];
         startTimer();
